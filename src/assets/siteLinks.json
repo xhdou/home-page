@@ -6,8 +6,8 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://alist.xiaohuadou.top/"
+    "name": "COE监控面板",
+    "link": "https://coe.xiaohuadou.top/"
   },
   {
     "icon": "Rocketchat",
@@ -18,11 +18,6 @@
     "icon": "Book",
     "name": "网址集",
     "link": "https://xiaohuadou.notion.site/2066f1b0a2bf4e138de52f0cc78f0580?v=45c266d9d371420dad4a93686d620913"
-  },
-  {
-    "icon": "Server",
-    "name": "CasaOS",
-    "link": "https://casaos.xiaohuadou.top/"
   },
   {
     "icon": "LaptopCode",
