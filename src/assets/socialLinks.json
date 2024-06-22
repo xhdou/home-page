@@ -16,17 +16,5 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "zhanghaostart@outlook.com"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/@zhangha43016756"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/xhdou"
   }
 ]
